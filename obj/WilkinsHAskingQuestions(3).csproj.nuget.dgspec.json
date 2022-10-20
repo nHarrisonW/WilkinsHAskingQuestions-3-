@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/WilkinsHAskingQuestions(3).csproj": {}
+    "/Users/comanders/Documents/GitResptory/WilkinsHAskingQuestions-3-/WilkinsHAskingQuestions(3).csproj": {}
   },
   "projects": {
-    "/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/WilkinsHAskingQuestions(3).csproj": {
+    "/Users/comanders/Documents/GitResptory/WilkinsHAskingQuestions-3-/WilkinsHAskingQuestions(3).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/WilkinsHAskingQuestions(3).csproj",
+        "projectUniqueName": "/Users/comanders/Documents/GitResptory/WilkinsHAskingQuestions-3-/WilkinsHAskingQuestions(3).csproj",
         "projectName": "WilkinsHAskingQuestions(3)",
-        "projectPath": "/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/WilkinsHAskingQuestions(3).csproj",
-        "packagesPath": "/Users/nigelwilkins/.nuget/packages/",
-        "outputPath": "/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/obj/",
+        "projectPath": "/Users/comanders/Documents/GitResptory/WilkinsHAskingQuestions-3-/WilkinsHAskingQuestions(3).csproj",
+        "packagesPath": "/Users/comanders/.nuget/packages/",
+        "outputPath": "/Users/comanders/Documents/GitResptory/WilkinsHAskingQuestions-3-/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nigelwilkins/.nuget/NuGet/NuGet.Config"
+          "/Users/comanders/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
