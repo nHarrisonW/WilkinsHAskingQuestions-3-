@@ -1,0 +1,15 @@
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/bin/Debug/net6.0/WilkinsHAskingQuestions(3)
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/bin/Debug/net6.0/WilkinsHAskingQuestions(3).deps.json
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/bin/Debug/net6.0/WilkinsHAskingQuestions(3).runtimeconfig.json
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/bin/Debug/net6.0/WilkinsHAskingQuestions(3).dll
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/bin/Debug/net6.0/WilkinsHAskingQuestions(3).pdb
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/obj/Debug/net6.0/WilkinsHAskingQuestions(3).csproj.AssemblyReference.cache
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/obj/Debug/net6.0/WilkinsHAskingQuestions(3).GeneratedMSBuildEditorConfig.editorconfig
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/obj/Debug/net6.0/WilkinsHAskingQuestions(3).AssemblyInfoInputs.cache
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/obj/Debug/net6.0/WilkinsHAskingQuestions(3).AssemblyInfo.cs
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/obj/Debug/net6.0/WilkinsHAskingQuestions(3).csproj.CoreCompileInputs.cache
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/obj/Debug/net6.0/WilkinsHAskingQuestions(3).dll
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/obj/Debug/net6.0/refint/WilkinsHAskingQuestions(3).dll
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/obj/Debug/net6.0/WilkinsHAskingQuestions(3).pdb
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/obj/Debug/net6.0/WilkinsHAskingQuestions(3).genruntimeconfig.cache
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAskingQuestions(3)/obj/Debug/net6.0/ref/WilkinsHAskingQuestions(3).dll
